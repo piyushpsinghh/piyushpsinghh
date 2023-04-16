@@ -3,9 +3,8 @@
 
 
  
-[![linkedin badge](https://img.shields.io/badge/anishjha-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/anishjha18)
-[![Gmail Badge](https://img.shields.io/badge/ztech818@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:piyushpsinghh@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=piyushpsinghh&style=plastic" />
+[![linkedin badge](https://img.shields.io/badge/-Piyush%20Pratap%20Singh-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-pratap-singh-943ba221b)  [![Gmail Badge](https://img.shields.io/badge/piyushpsinghh@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:piyushpsinghh@gmail.com)
+ <img src="https://komarev.com/ghpvc/?username=piyushpsinghh&style=plastic" />
 <br>
 
 I'm a final year BCA student  and a passionate  who loves to learn. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <br>
