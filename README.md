@@ -37,8 +37,7 @@ I'm a final year BCA student  and a passionate  who loves to learn. I am creativ
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=piyushpsinghh&theme=radical)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushpsinghh&show_icons=true&theme=radical)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushpsinghh&show_icons=true&theme=radical&layout=compact)
+piyushpsinghh
  
  
  
