@@ -1,5 +1,5 @@
 <h1 >Hey there, I'm <a  href="https://github.com/piyushpsinghh"> Piyush Pratap Singh </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h2 align="center">A self-taught Data Science & Analyst  Enthusiast from India </h2>
+<h2 align="center"> Data Science & Analyst  Enthusiast from India </h2>
 
 
  
