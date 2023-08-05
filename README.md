@@ -19,9 +19,9 @@ Hi there! I'm a BCA graduate and passionate data enthusiast. I love learning and
 <br>
 <p >
 <h3 align="left">Languages and Tools:</h3>
- 
-<div style={{display:'flex'}}>
+
 <div>
+ 
 * **Data Collection and Storage:** SQL, MySQL.
 
 * **Data Processing and Analytics:** Excel,Python, Pandas, Numpy, and NLTK.
@@ -35,11 +35,6 @@ Hi there! I'm a BCA graduate and passionate data enthusiast. I love learning and
 * **Automation tool:** Selenium.
 
 * **Python Library** NumPy,Pandas,Pymysql, SqlAlchemy, Scikitlearn, Scipy, NLTK.
-</div>
-
-<div>
-<img width="400" height="250" src="https://digitalnext.co.uk/wp-content/uploads/2020/10/bi-dashboard.gif"  />
-</div>
 </div>
 
  
