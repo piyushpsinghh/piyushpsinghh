@@ -36,8 +36,8 @@ Hi there! I'm a BCA graduate and passionate data enthusiast. I love learning and
 * **Python Library** NumPy,Pandas,Pymysql, SqlAlchemy, Scikitlearn, Scipy, NLTK.
 </div>
 
- 
-<div style={{display:'flex'}}>
+ <br>
+<div align="center">
 
 <img src="https://img.icons8.com/color/48/null/python--v1.png"/> <img src="https://img.icons8.com/color/48/null/numpy.png"/> <img src="https://img.icons8.com/color/48/null/pandas.png"/> <img src="https://img.icons8.com/color/48/null/selenium-test-automation.png"/>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> </a> 
@@ -45,6 +45,7 @@ Hi there! I'm a BCA graduate and passionate data enthusiast. I love learning and
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> </a> 
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/> <img src="https://img.icons8.com/color/48/null/power-bi.png"/><img src="https://img.icons8.com/color/48/null/ms-excel.png"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/google-sheets.png" alt="google-sheets"/> <img width="48" height="48" src="https://img.icons8.com/color/48/ms-powerpoint--v1.png" alt="ms-powerpoint--v1"/>
 
+</div>
 <br>
 
 ## Projects
@@ -69,11 +70,13 @@ Hi there! I'm a BCA graduate and passionate data enthusiast. I love learning and
 
    Created an interactive dashboard with clear visualizations of sales and shipping data using Power BI. Utilized DAX functions, Power Query, and data modeling to perform data visualization, plotting, and analysis
 
-
+##
 <br>
-
+<div align="center">
+ 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=piyushpsinghh&theme=radical)  
 
+</div>
  
  
  
