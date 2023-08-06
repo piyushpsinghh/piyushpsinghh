@@ -17,12 +17,11 @@ Hi there! I'm a BCA graduate and passionate data enthusiast. I love learning and
 </div>
 
 <br>
-<p >
-<h3 align="left">Languages and Tools:</h3>
 
+## Languages and Tools:
 <div>
  
-* **Data Collection and Storage:** SQL, MySQL.
+* **Data Storage:** MySQL.
 
 * **Data Processing and Analytics:** Excel,Python, Pandas, Numpy, and NLTK.
   
