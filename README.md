@@ -50,7 +50,9 @@ Hi there! I'm a BCA graduate and passionate data enthusiast. I love learning and
 
 ## Projects
 
-  
+* ### [Election_Candidate_Analysis](https://github.com/piyushpsinghh/Election_Candidate_Analysis)
+
+    Executed end-to-end data analysis on West Bengal election candidates' data. Utilized Selenium and BeautifulSoup for scraping, NumPy & Pandas for data cleaning, and MySQL for storage. Created an automated data pipeline to load data into MySQL. Developed interactive Power BI dashboard with Power Query, DAX, and data visualization for actionable insights.  
 
   
 * ### [Instahyre_JobAnalysis](https://github.com/piyushpsinghh/instahyre_JobAnalysis)
