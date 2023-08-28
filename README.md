@@ -51,10 +51,7 @@ Hi there! I'm a BCA graduate and passionate data enthusiast. I love learning and
 ## Projects
 
   
-* ### [Election_Candidate_Analysis](https://github.com/piyushpsinghh/Election_Candidate_Analysis)
 
-    Executed end-to-end data analysis on West Bengal election candidates' data. Utilized Selenium and BeautifulSoup for scraping, NumPy & Pandas for data cleaning, and MySQL for storage. Created an automated data pipeline to load data into MySQL. Developed interactive Power BI dashboard with Power Query, DAX, and data visualization for actionable insights.
-    
   
 * ### [Instahyre_JobAnalysis](https://github.com/piyushpsinghh/instahyre_JobAnalysis)
 
@@ -65,10 +62,6 @@ Hi there! I'm a BCA graduate and passionate data enthusiast. I love learning and
 
    Built a web-based job recommendation model using machine learning with Streamlit. Trained algorithms in Jupyter Notebook using Scikit-Learn, NumPy, and Pandas for data processing and modeling. Implemented user-friendly web pages with HTML, CSS, and JavaScript. The model recommends job openings, experience, departments, and companies based on the user's skill set preferences.
 
-
-* ### [Amazon_quarter_sales](https://github.com/piyushpsinghh/Amazon_quarter_sales)
-
-   Created an interactive dashboard with clear visualizations of sales and shipping data using Power BI. Utilized DAX functions, Power Query, and data modeling to perform data visualization, plotting, and analysis
 
 ##
 <br>
